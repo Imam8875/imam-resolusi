@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- konsisten untuk membuat konten 2x seminggu
+- Membuat platfrom untuk mengelola keuangan dan database
+- Membuat aplikasi pengelolaan video 
